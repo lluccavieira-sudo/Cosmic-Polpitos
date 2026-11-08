@@ -14,10 +14,10 @@ Sem resgate a caminho, sua única saída é transformar a estação abandonada e
 ---
 
 ## ✨ Recursos e Mecânicas
-* 🪐 **Exploração Espacial:** Navegue pelo Mapa Cósmico e descubra planetas desconhecidos.
-* ⛏️ **Mineração e Recursos:** Quebre formações rochosas para coletar materiais e minerais raros com poderes especiais.
-* 🏗️ **Construção de Base:** Reconstrua e evolua sua estação espacial para produzir combustível e unidades de dobra.
-* 💾 **Progressão e Salvamento:** Sistema de níveis e salvamento de progresso.
+* 🪐 **Exploração Espacial:** Navegue pelo Mapa Cósmico ou use a espaçonave pelos planetas
+* ⛏️ **Mineração e Recursos:** Quebre formações rochosas 
+* 🏗️ **Construção de Base:** Reconstrua e evolua sua estação espacial para produzir combustível e unidades de dobra "em breve".
+* 💾 **Progressão e Salvamento:** Sistema de níveis e salvamento de progresso. "em breve"
 
 ---
 
