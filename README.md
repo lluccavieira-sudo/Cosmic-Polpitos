@@ -2,7 +2,7 @@
 
 **Cosmic Polpitos** é um jogo indie de aventura e simulação espacial desenvolvido no **GDevelop** por **Vieiras Games**.
 
-🔗 **Jogue agora no navegador:** [Cosmic Polpitos no gd.games](https://gd.games)
+🔗 **Jogue agora no navegador:** [Cosmic Polpitos no gd.games](https://gd.games/vieirasgames/cosmic-polpitos)
 
 ---
 
