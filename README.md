@@ -31,10 +31,10 @@ Sem resgate a caminho, sua única saída é transformar a estação abandonada e
 * **Engine:** GDevelop
 * **Gênero:** Aventura / Simulação Espacial
 
-## 📚 Livro Oficial e JSON
+## 📚 Livro Oficial e Código-Fonte (JSON)
 
-* **O livro oficial na sessão de dowloads
-* **tambem tem o JSON para qualquer ocasião
+* ** Acompanhe a história completa da missão em Polpostorinos e as descobertas ao lado do Polpito.
+* ** Arquivo aberto do projeto para estudo, mods ou consulta.
 
 ---
 
