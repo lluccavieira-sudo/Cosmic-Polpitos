@@ -31,6 +31,11 @@ Sem resgate a caminho, sua única saída é transformar a estação abandonada e
 * **Engine:** GDevelop
 * **Gênero:** Aventura / Simulação Espacial
 
+## 📚 Livro Oficial e JSON
+
+* **O livro oficial na sessão de dowloads
+* **tambem tem o JSON para qualquer ocasião
+
 ---
 
 © **Vieiras Games** — *Cosmic Polpitos Oficial*
